@@ -40,7 +40,7 @@ A portable text-to-speech application with OCR capabilities that can run from a 
 ## Installation
 
 1. Clone this repository:
-   ```bash   git clone https://github.com/TEDK84-cpu/Text-to-Speech.git
+   ```bash   git clone [https://github.com/TEDK84-cpu/Text-to-Speech.git](https://github.com/TEDK84-cpu/Dyslexic_Custom_Reader.git)
    cd Text-to-Speech
    ```
 
